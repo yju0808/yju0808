@@ -1,23 +1,11 @@
-# Yim jeonguk
+# Yim Jeonguk
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jeonguk-yim//)
 
 
+<img src="https://img.shields.io/badge/LINKEDIN-#0A66C2?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yju0808)](https://solved.ac/yju0808)
-
-<!--
-**yju0808/yju0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
