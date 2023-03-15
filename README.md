@@ -1,5 +1,7 @@
 ## 임정욱 | Jeonguk Yim
 
+70% philosopher   
+30% developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jeonguk-yim//)
 
