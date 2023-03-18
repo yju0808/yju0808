@@ -1,17 +1,21 @@
-## 임정욱 | Jeonguk Yim
+# 임정욱 | Jeonguk Yim
 
-70% philosopher   
-30% developer
+<strong>70% philosopher</strong> <br>
+<strong>30% developer</strong>
 
 
 <br>
 <br>
 
 
-<strong>Contact</strong>
+<h3>Contact</h3>
+
+<div>
 
 <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> 
 <a href="mailto:yju0808@naver.com"><img  src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+</div>
 
 <hr/>
 
