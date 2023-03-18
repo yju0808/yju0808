@@ -8,17 +8,19 @@
 <br>
 
 
-<strong>Contact</strong>
+<h2> Contact </h2>
 
 <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> 
 
+<hr/>
+
 
 
 <br>
 <br>
 
 
-<h3> Stacks </h3>
+<h2> Stacks </h2>
 
 <br>
 
@@ -75,6 +77,7 @@
 <img  src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/>
 
 </div>
+<hr/>
 
 <br>
 <br>
