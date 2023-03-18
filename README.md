@@ -1,10 +1,7 @@
 # 임정욱 | Jeonguk Yim
 
-<strong>70% philosopher</strong> <br>
-<strong>30% developer</strong>
-
-
-<br>
+<strong>80% philosopher</strong> <br>
+<strong>20% developer</strong>
 
 
 <h3>Contact</h3>
@@ -17,8 +14,6 @@
 </div>
 
 <hr/>
-
-<br>
 
 
 <h3>Language</h3>
