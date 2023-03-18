@@ -19,11 +19,7 @@
 
 <hr/>
 
-
-
 <br>
-<br>
-
 
 
 <h3>Language</h3>
@@ -36,7 +32,6 @@
 
 </div>
 
-<br>
 
 
 <h3>Back-End</h3>
@@ -50,7 +45,6 @@
 
 </div>
 
-<br>
 
 
 <h3>Front-End</h3>
@@ -64,7 +58,6 @@
 
 </div>
 
-<br>
 
 
 <h3>Collaboration & Tools</h3>
@@ -81,7 +74,6 @@
 </div>
 <hr/>
 
-<br>
 <br>
 
 
