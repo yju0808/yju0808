@@ -11,6 +11,7 @@
 <strong>Contact</strong>
 
 <img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> 
+<a href="mailto:yju0808@naver.com"><img  src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <hr/>
 
@@ -21,7 +22,7 @@
 
 
 
-<strong>Language</strong>
+<h3>Language</h3>
 
 <div>
 
@@ -34,7 +35,7 @@
 <br>
 
 
-<strong>Back-End</strong>
+<h3>Back-End</h3>
 
 <div>
 
@@ -48,7 +49,7 @@
 <br>
 
 
-<strong>Front-End</strong>
+<h3>Front-End</h3>
 
 <div>
 
@@ -62,7 +63,7 @@
 <br>
 
 
-<strong>Collaboration & Tools</strong>
+<h3>Collaboration & Tools</h3>
 
 <div>
 
