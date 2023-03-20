@@ -2,13 +2,18 @@
 
 <strong>80% philosopher</strong> <br>
 <strong>20% developer</strong>
+<br>
+철학과 컴퓨터공학을 공부합니다
+<br>
+~~(컴공은 먹고살려고 어쩔 수 없이 합니다)~~
+
 
 
 <h3>Contact</h3>
 
 <div>
 
-<img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/> 
+<a href="https://www.linkedin.com/in/jeonguk-yim/"><img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:yju0808@naver.com"><img  src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
