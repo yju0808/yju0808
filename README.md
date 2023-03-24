@@ -1,7 +1,7 @@
 # 임정욱 | Jeonguk Yim
 
 
-<strong style='font-size:17px'>14th SW Maestro</strong>   
+<strong style='font-size:20px'>14th SW Maestro</strong>   
 
 
 철학과 컴퓨터공학을 공부합니다.
