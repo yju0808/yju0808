@@ -1,8 +1,13 @@
 # 임정욱 | Jeonguk Yim
 
+<div>
 Software Maestro 14th
 
 철학과 컴퓨터공학을 공부합니다.
+
+</div>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/jeonguk-yim/"><img  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:yju0808@naver.com"><img  src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
