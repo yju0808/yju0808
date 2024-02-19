@@ -1,4 +1,4 @@
-# 임정욱 | Jeonguk Yim
+# 임정욱 | Jeonguk (Kant) Lim
 
 <div>
 Software Maestro 14th
