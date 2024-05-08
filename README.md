@@ -1,7 +1,5 @@
 철학과 컴퓨터공학을 공부합니다.
 
-<br>
-
 #### 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeonguk-yim/)
