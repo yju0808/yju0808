@@ -11,6 +11,6 @@
 - [**라이트메이트**](https://www.write-mate.net) - 웹소설 작가를 위한 클라우드 기반 창작 플랫폼(SW마에스트로 14기 인증)
 - [**숏컷집**](https://github.com/Team-ShortcutsZip/MacC-Team-HappyAnding) - 더 편리한 단축어 공유 플랫폼
 
-#### 🧑‍💻 Problem Solving
+#### 💻 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yju0808)](https://solved.ac/yju0808)
