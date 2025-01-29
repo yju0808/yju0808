@@ -2,7 +2,7 @@
 
 #### 🔗 Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jeonguk-yim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kant-lim/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:yju0808@naver.com)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=bookstack&logoColor=white)](https://blog.naver.com/kant_lim)
 
