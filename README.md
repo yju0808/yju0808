@@ -8,8 +8,10 @@
 
 #### 📚 Projects
 
+- [**팡거스냅**](https://www.fingersnap.app) - AI 기반 자기소개서 피드백 서비스
 - [**라이트메이트**](https://www.write-mate.net) - 웹소설 작가를 위한 클라우드 기반 창작 플랫폼(SW마에스트로 14기 인증)
 - [**숏컷집**](https://github.com/Team-ShortcutsZip/MacC-Team-HappyAnding) - 더 편리한 단축어 공유 플랫폼
+
 
 #### 💻 Problem Solving
 
