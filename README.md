@@ -8,9 +8,9 @@
 
 #### 📚 Projects
 
+- [**erdia**](https://www.erdia.app) – AI 기반 데이터베이스 설계 툴(베타 테스트)
 - [**fingersnap**](https://www.fingersnap.app) – AI 기반 자기소개서 피드백 서비스
-- [**writemate**](https://www.write-mate.net) – 웹소설 작가를 위한 클라우드 기반 창작 플랫폼 (SW마에스트로 14기 Top5 프로젝트)
-- [**shortcutszip**](https://github.com/Team-ShortcutsZip/MacC-Team-HappyAnding) – 더 편리한 단축어 공유 플랫폼
+- [**writemate**](https://www.write-mate.net) – 웹소설 작가를 위한 클라우드 기반 창작 플랫폼 (SW마에스트로 14기 Top5 우수 프로젝트)
 
 #### 🤝 Contributions
 
