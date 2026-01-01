@@ -19,4 +19,5 @@
 
 #### 💻 Problem Solving
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yju0808)](https://solved.ac/yju0808)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yju0808)](https://solved.ac/yju0808)
+
