@@ -21,3 +21,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yju0808)](https://solved.ac/yju0808)
 
+
+#### 🎫 Certifications
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b6935293-529e-4819-96c0-6e997f6d68c8/public_url)
