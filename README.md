@@ -2,9 +2,9 @@
 
 #### 🔗 Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kant-lim/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:yju0808@naver.com)
-[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=bookstack&logoColor=white)](https://blog.naver.com/kant_lim)
+[![LinkedIn](https://badgers.space/badge/LinkedIn/%20/2563EB?label_color=2563EB&theme=tailwind&corner_radius=l&scale=1.05&icon=feather-linkedin)](https://www.linkedin.com/in/kant-lim/)
+[![Email](https://badgers.space/badge/Email/%20/DC2626?label_color=DC2626&theme=tailwind&corner_radius=l&scale=1.05&icon=feather-mail)](mailto:yju0808@naver.com)
+[![Personal Blog](https://badgers.space/badge/Personal%20Blog/%20/03C75A?label_color=03C75A&theme=tailwind&corner_radius=l&scale=1.05&icon=feather-globe)](https://blog.naver.com/kant_lim)
 
 #### 📚 Projects
 
