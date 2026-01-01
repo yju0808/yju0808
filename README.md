@@ -2,9 +2,9 @@
 
 #### 🔗 Links
 
-[![LinkedIn](https://badgers.space/badge/LinkedIn/Kant%20Lim/0A66C2?label_color=0857A8&theme=tailwind&corner_radius=l&scale=1.05&icon=feather-linkedin)](https://www.linkedin.com/in/kant-lim/)   
-[![Email](https://badgers.space/badge/Email/yju0808%40naver.com/EA4335?label_color=D63B2E&theme=tailwind&corner_radius=l&scale=1.05&icon=feather-mail)](mailto:yju0808@naver.com)   
-[![Personal%20Blog](https://badgers.space/badge/Personal%20Blog/kant_lim/03C75A?label_color=028A4C&theme=tailwind&corner_radius=l&scale=1.05&icon=feather-globe)](https://blog.naver.com/kant_lim)   
+[![LinkedIn](https://badgers.space/badge/LinkedIn/Kant%20Lim/0A66C2?label_color=0857A8&theme=tailwind&corner_radius=l&scale=1&icon=feather-linkedin&icon_width=20&label_width=90)](https://www.linkedin.com/in/kant-lim/)   
+[![Email](https://badgers.space/badge/Email/yju0808%40naver.com/EA4335?label_color=D63B2E&theme=tailwind&corner_radius=l&scale=1&icon=feather-mail&icon_width=20&label_width=90)](mailto:yju0808@naver.com)   
+[![Personal%20Blog](https://badgers.space/badge/Personal%20Blog/kant_lim/03C75A?label_color=028A4C&theme=tailwind&corner_radius=l&scale=1&icon=feather-globe&icon_width=20&label_width=90)](https://blog.naver.com/kant_lim)   
 
 
 #### 📚 Projects
