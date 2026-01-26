@@ -13,9 +13,9 @@
    
 #### 📚 Projects
 
-- [**erdia**](https://www.erdia.app) – AI 기반 데이터베이스 설계 툴
-- [**fingersnap**](https://www.fingersnap.app) – AI 기반 자기소개서 피드백 서비스
-- [**writemate**](https://www.write-mate.net) – 웹소설 작가를 위한 클라우드 기반 창작 플랫폼 (소프트웨어 마에스트로 14기 Top5 우수 프로젝트)
+- [**erdia**](https://www.erdia.app) – AI-powered database design tool  
+- [**fingersnap**](https://www.fingersnap.app) – AI-powered résumé feedback service  
+- [**writemate**](https://www.write-mate.net) – Cloud-based writing platform for web-novel authors (Top 5 Project, Software Maestro 14th)
    
 #### 🤝 Contributions
 
