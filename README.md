@@ -9,7 +9,7 @@
 #### 🎓 Education
 
 - **[POCU Academy](https://pocu.academy/)** – Passed core CS courses (Math, C, OOP, Assembly, Data Structures & Algorithms)
-- **[Software Maestro 14th](https://www.swmaestro.ai)** – Top 6% Outstanding Trainee
+- **Software Maestro (14th Cohort)** – Selected as an Outstanding Trainee (Top 6%)
    
 #### 📚 Projects
 
