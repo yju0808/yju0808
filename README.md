@@ -9,7 +9,7 @@
    
 #### 💼 Experience
 
-**[Wrtn Technologies](https://wrtn.io)** — Agent Developer Intern *(Apr 2026 – Present)*
+**[Wrtn Technologies](https://wrtn.io)** — Agent Developer Intern *(Apr 2026 – Jul 2026)*
 - Korea’s most-used AI platform with 5M+ MAUs and ~$89M raised
    
 #### 🎓 Education
