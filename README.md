@@ -18,9 +18,8 @@
 - **[Software Maestro (14th Cohort)](https://www.swmaestro.ai)** – Selected as an Outstanding Trainee (Top 6%)
    
 #### 📚 Projects
-
+- [**foop**](https://www.foop.site) – AI Fashion Creator Platform
 - [**erdia**](https://www.erdia.app) – AI-powered database design tool  
-- [**fingersnap**](https://www.fingersnap.app) – AI-powered résumé feedback service  
 - [**writemate**](https://www.write-mate.net) – Cloud-based writing platform for web-novel authors (Top 5 Project, Software Maestro 14th)
    
 #### 🤝 Contributions
